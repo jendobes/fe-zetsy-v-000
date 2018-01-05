@@ -21,7 +21,7 @@ body {
 }
 
 h1 {
-	font: 'Baskerville';
+	font-family: 'Baskerville';
 	font-size: 5em;
 	font-weight: bold;
 	color: rgb(156,172,166)
