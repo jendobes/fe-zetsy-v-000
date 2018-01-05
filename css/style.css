@@ -31,6 +31,15 @@ h1:hover {
 	color: rgb(111,127,122);
 }
 
+#about a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+#featured a:hover {
+	text-decoration: underline;
+}
+
 h2 {
 	color: rgb(111,127,122);
 	font-size: 2em;
