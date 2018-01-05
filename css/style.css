@@ -23,6 +23,7 @@ body {
 h1 {
 	font: 'Baskerville', serif;
 	font-size: 5em;
+	font-weight: normal
 	color: rgb(156,172,166)
 }
 
