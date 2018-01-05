@@ -27,6 +27,10 @@ h1 {
 	color: rgb(156,172,166)
 }
 
+header a:hover {
+	color: rgb(111,127,122);
+}
+
 h2 {
 	color: rgb(111,127,122);
 	font-size: 2em;
