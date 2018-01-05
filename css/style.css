@@ -39,7 +39,9 @@ footer {
 #press img {
 	border: 5px solid #ccc;
 }
-
+#press img:hover {
+	border: 5px solid rgb(111,127,122);
+}
 img {
 	border: 5px solid rgb(156,172,166);
 }
